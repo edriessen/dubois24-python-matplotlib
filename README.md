@@ -11,10 +11,14 @@ I'm also keep track of my progress on [my personal blog](https://www.edriessen.c
 Done:
 
 - Challenge 01: done.
+- Challenge 02: done.
+
+Bonus:
+
+- I've added `colors.py` to the project. It includes a dictionary of the Du Bois colours by name as listed in the [style guide](https://github.com/ajstarks/dubois-data-portraits/blob/master/dubois-style.pdf). 
 
 To do:
 
-- Challenge 02
 - Challenge 03
 - Challenge 04
 - Challenge 05
@@ -23,4 +27,8 @@ To do:
 - Challenge 08
 - Challenge 09
 - Challenge 10
+
+## Contact
+
+Any questions or suggestions? Don't hesitate to reach out. [Say hi here](https://www.edriessen.com/contact).
 
