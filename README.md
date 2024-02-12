@@ -1,6 +1,6 @@
 #  #DuBoisChallenge2024 using Python and Matplotlib
 
-This repository contains a colletion of notebooks. The notebooks show you how to recreate some of W.E.B. Du Bois's Data Portraits using Matplotlib. 
+This repository contains a collection of notebooks. The notebooks show you how to recreate some of W.E.B. Du Bois's Data Portraits using Matplotlib. 
 
 To get started, copy the `2024` folder from the [DVS Du Bois Data Challenge repo](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge) and add it to the root of this project.
 
