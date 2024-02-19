@@ -12,6 +12,7 @@ Done:
 
 - Challenge 01: done.
 - Challenge 02: done.
+- Challenge 03: done.
 
 Bonus:
 
@@ -19,7 +20,6 @@ Bonus:
 
 To do:
 
-- Challenge 03
 - Challenge 04
 - Challenge 05
 - Challenge 06
