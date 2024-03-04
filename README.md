@@ -13,14 +13,15 @@ Done:
 - Challenge 01: done.
 - Challenge 02: done.
 - Challenge 03: done.
+- Challenge 04: done.
 
 Bonus:
 
-- I've added `colors.py` to the project. It includes a dictionary of the Du Bois colours by name as listed in the [style guide](https://github.com/ajstarks/dubois-data-portraits/blob/master/dubois-style.pdf). 
+- `colors.py` - it includes a dictionary of the Du Bois colours by name as listed in the [style guide](https://github.com/ajstarks/dubois-data-portraits/blob/master/dubois-style.pdf). 
+- `port_lookup.py` - it includes a dictionary with latitudes and longitudes for all the ports (Sources and Destinations) in the challenge 04 route pairs data, generated using [geopy](https://geopy.readthedocs.io/en/stable/#nominatim). 
 
 To do:
 
-- Challenge 04
 - Challenge 05
 - Challenge 06
 - Challenge 07
