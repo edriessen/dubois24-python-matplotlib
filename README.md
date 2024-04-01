@@ -18,6 +18,7 @@ Done:
 - Challenge 06: done.
 - Challenge 07: done.
 - Challenge 08: done.
+- Challenge 09: done.
 
 Bonus:
 
@@ -26,7 +27,6 @@ Bonus:
 
 To do:
 
-- Challenge 09
 - Challenge 10
 
 ## Contact
