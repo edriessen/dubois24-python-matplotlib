@@ -9,4 +9,6 @@ dubois_colors = {
     'blue': '#4682b4',
     'purple': '#7e6583',
     'bg': '#FAF0E6',
+    'white': '#ffffff',
+    'grey':  '#777777',
 }
